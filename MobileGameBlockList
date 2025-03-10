@@ -1,0 +1,89 @@
+! Title: Mobile Games Ad Blocklist
+! Description: Block ads from popular mobile games targeted towards younger audiences
+! Homepage: https://github.com/AdGuardTeam/AdGuardHome
+! Last modified: 2025-03-10
+!
+! Compiled by @adguard/hostlist-compiler v1.0.23
+!
+!
+! Source name: Mobile Games Ad Blocklist
+! Source: Custom list for blocking ads in mobile games
+!
+
+# [brawlstars.com]
+127.0.0.1 ads.brawlstars.com
+127.0.0.1 analytics.brawlstars.com
+127.0.0.1 sdk.brawlstars.com
+
+# [supercell.com]
+127.0.0.1 ads.supercell.com
+127.0.0.1 analytics.supercell.com
+127.0.0.1 tracking.supercell.com
+127.0.0.1 api.supercell.com
+
+# [rovio.com]
+127.0.0.1 ads.rovio.com
+127.0.0.1 analytics.rovio.com
+127.0.0.1 sdk.rovio.com
+127.0.0.1 a.rovio.com
+
+# [king.com]
+127.0.0.1 ads.king.com
+127.0.0.1 tracking.king.com
+127.0.0.1 sdk.king.com
+127.0.0.1 analytics.king.com
+
+# [gameloft.com]
+127.0.0.1 ads.gameloft.com
+127.0.0.1 analytics.gameloft.com
+127.0.0.1 sdk.gameloft.com
+
+# [playtika.com]
+127.0.0.1 ads.playtika.com
+127.0.0.1 analytics.playtika.com
+127.0.0.1 sdk.playtika.com
+
+# [take2games.com]
+127.0.0.1 ads.take2games.com
+127.0.0.1 tracking.take2games.com
+127.0.0.1 sdk.take2games.com
+
+# [miniclip.com]
+127.0.0.1 ads.miniclip.com
+127.0.0.1 tracking.miniclip.com
+127.0.0.1 sdk.miniclip.com
+
+# [tapjoy.com]
+127.0.0.1 ads.tapjoy.com
+127.0.0.1 sdk.tapjoy.com
+127.0.0.1 tracking.tapjoy.com
+
+# [chartboost.com]
+127.0.0.1 ads.chartboost.com
+127.0.0.1 sdk.chartboost.com
+127.0.0.1 tracking.chartboost.com
+
+# [adcolony.com]
+127.0.0.1 ads.adcolony.com
+127.0.0.1 sdk.adcolony.com
+127.0.0.1 tracking.adcolony.com
+
+# [tapjoy.com]
+127.0.0.1 ads.tapjoy.com
+127.0.0.1 sdk.tapjoy.com
+127.0.0.1 tracking.tapjoy.com
+
+# [ironSource.com]
+127.0.0.1 ads.ironsource.com
+127.0.0.1 sdk.ironsource.com
+127.0.0.1 tracking.ironsource.com
+
+# [unityads.com]
+127.0.0.1 ads.unityads.com
+127.0.0.1 sdk.unityads.com
+127.0.0.1 tracking.unityads.com
+
+# [admob.com]
+127.0.0.1 ads.admob.com
+127.0.0.1 sdk.admob.com
+127.0.0.1 tracking.admob.com
