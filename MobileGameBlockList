@@ -15,6 +15,16 @@
 127.0.0.1 analytics.brawlstars.com
 127.0.0.1 sdk.brawlstars.com
 
+# [brawlstars.com] - Game Server Block
+127.0.0.1 brawlstars.com
+127.0.0.1 play.brawlstars.com
+127.0.0.1 api.brawlstars.com
+
+# [supercell.com] - Game Server Block
+127.0.0.1 supercell.com
+127.0.0.1 api.supercell.com
+127.0.0.1 play.supercell.com
+
 # [supercell.com]
 127.0.0.1 ads.supercell.com
 127.0.0.1 analytics.supercell.com
